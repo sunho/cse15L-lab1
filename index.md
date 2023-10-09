@@ -12,7 +12,7 @@ cat
 
 **Why this output:** Since we didn't receive argument, it is reading from standard input. It looks like it's hanging and that's why I escaped it by Ctrl-C, but it was waiting for the input to come.
 
-If I actually provide input through stdin by typing or piping into stdin (| operator), we can see that it outputs them like below.
+If I actually provide input through stdin by typing or piping into stdin (`| operator`), we can see that it outputs them like below.
 
 ![Image](images/cat_type.png)
 
