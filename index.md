@@ -1,5 +1,5 @@
 # CAT
-## (no argument)
+## CAT (no argument)
 
 
 ```sh
@@ -25,7 +25,7 @@ Nowadays, people define these types of commands that receive from stdin if no ar
 
 **Is this error:** It can be considered error, but it is actually doing what it was designed to do: printing out the content of "file."
 
-## (directory)
+## CAT (directory)
 
 ```sh
 cat messages
@@ -39,7 +39,7 @@ cat messages
 
 **Is this error:** Yeah, it said that it is an error.
 
-## (file)
+## CAT (file)
 
 ```sh
 cat Hello.java
@@ -54,7 +54,7 @@ cat Hello.java
 **Is this error:** No.
 
 # CD
-## (no argument)
+## CD (no argument)
 ```sh
 cd
 ```
@@ -67,7 +67,7 @@ cd
 
 **Is this error:** It is not an error since it's doing what it was defined to do.
 
-## (directory)
+## CD (directory)
 
 ```sh
 cd lecture1
@@ -81,7 +81,7 @@ cd lecture1
 
 **Is this error:** No.
 
-## (file)
+## CD (file)
 
 ```sh
 cd Hello.java
@@ -96,7 +96,7 @@ cd Hello.java
 **Is this error:** Yeah, it's saying it is an error.
 
 # LS
-## (no argument)
+## LS (no argument)
 ```sh
 ls
 ```
@@ -109,7 +109,7 @@ ls
 
 **Is this error:** No.
 
-## (directory)
+## LS (directory)
 
 ```sh
 ls messages
@@ -123,7 +123,7 @@ ls messages
 
 **Is this error:** No.
 
-## (file)
+## LS (file)
 
 ```sh
 ls Hello.java
