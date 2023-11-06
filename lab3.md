@@ -50,6 +50,8 @@ This fixes the bug since now it doesn't overwrite the first element before it is
 
 ## Part 2
 
+All descriptions of command line option were from man grep.
+
 **grep -r:** performs recursive search on the directory specified.
 
 ![fa](./images/grep1.png)
