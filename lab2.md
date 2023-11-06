@@ -97,4 +97,4 @@ I already use id_rsa for something else so id_rsa_uscd is the one for ucsd serve
 
 # Part 3
 
-I learned that ucsd has free linux server. I also learned about some history of linux commands.
+I learned that ucsd has free linux server. I also learned about some history of linux commands. I also learned how to use basic JUnit testing tool.
