@@ -92,6 +92,7 @@ It can be useful when you want to find files with specific content.
 ./technical/plos/pmed.0020073.txt:          transbronchial biopsy, and a nearly 5:1 ratio in the pleural fluid (Figure 2A). Notably,
 ./technical/plos/pmed.0020073.txt:          we did not detect the 2573 T→G mutation in the original transbronchial biopsy specimen
 ./technical/biomed/rr166.txt:          transbronchial lung biopsies at the time of diagnosis. Of
+```
 
 **grep -v:** find all lines that does not include specified word.
 
@@ -175,6 +176,7 @@ Can be useful when you want to match more texts by case-insensitiveness.
           presence or absence of blocking anti-CXCR3 antibodies (5 μg/ml, R&D Systems).
           the immunohistochemical localization of this chemokine receptor that CD14
           interaction because in the presence of a CXCR3 function-blocking antibody, IP-10 failed
+```
 
 **grep -c:** count number of matching lines.
 
